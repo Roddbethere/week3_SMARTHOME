@@ -1,2 +1,3 @@
 # week3_SMARTHOME
-Week 3 homework assignmeny
+Week 3 homework assignment
+
