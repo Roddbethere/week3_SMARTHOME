@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38A98DD-9F62-411A-822E-2AF03A5D5838}|Smart_Home\\Smart_Home.csproj|c:\\users\\roy20\\onedrive - university of pittsburgh\\2026_spring\\oop\\week3_smarthome\\smart_home\\smart_home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38A98DD-9F62-411A-822E-2AF03A5D5838}|Smart_Home\\Smart_Home.csproj|solutionrelative:smart_home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A32105-E7CB-4714-80CE-3D427070ABF8}|Smart_HomeLib\\Smart_HomeLib.csproj|c:\\users\\roy20\\onedrive - university of pittsburgh\\2026_spring\\oop\\week3_smarthome\\smart_home\\smart_homelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A32105-E7CB-4714-80CE-3D427070ABF8}|Smart_HomeLib\\Smart_HomeLib.csproj|solutionrelative:smart_homelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A32105-E7CB-4714-80CE-3D427070ABF8}|Smart_HomeLib\\SmartHomeLib.csproj|c:\\users\\roy20\\onedrive - university of pittsburgh\\2026_spring\\oop\\week3_smarthome\\smart_home\\smart_homelib\\smarthomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A32105-E7CB-4714-80CE-3D427070ABF8}|Smart_HomeLib\\SmartHomeLib.csproj|solutionrelative:smart_homelib\\smarthomehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A32105-E7CB-4714-80CE-3D427070ABF8}|Smart_HomeLib\\Smart_HomeLib.csproj|c:\\users\\roy20\\onedrive - university of pittsburgh\\2026_spring\\oop\\week3_smarthome\\smart_home\\smart_homelib\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A32105-E7CB-4714-80CE-3D427070ABF8}|Smart_HomeLib\\Smart_HomeLib.csproj|solutionrelative:smart_homelib\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartHomeHUb.cs",
+              "DocumentMoniker": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_HomeLib\\SmartHomeHUb.cs",
+              "RelativeDocumentMoniker": "Smart_HomeLib\\SmartHomeHUb.cs",
+              "ToolTip": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_HomeLib\\SmartHomeHUb.cs",
+              "RelativeToolTip": "Smart_HomeLib\\SmartHomeHUb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:27:07.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_HomeLib\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "Smart_HomeLib\\SmartDevice.cs",
+              "ToolTip": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_HomeLib\\SmartDevice.cs",
+              "RelativeToolTip": "Smart_HomeLib\\SmartDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:25:44.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_HomeLib\\Class1.cs",
+              "RelativeDocumentMoniker": "Smart_HomeLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_HomeLib\\Class1.cs",
+              "RelativeToolTip": "Smart_HomeLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:24:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_Home\\Program.cs",
+              "RelativeDocumentMoniker": "Smart_Home\\Program.cs",
+              "ToolTip": "C:\\Users\\Roy20\\OneDrive - University of Pittsburgh\\2026_Spring\\OOP\\week3_SMARTHOME\\Smart_Home\\Smart_Home\\Program.cs",
+              "RelativeToolTip": "Smart_Home\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:23:46.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
